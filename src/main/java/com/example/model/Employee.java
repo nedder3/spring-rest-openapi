@@ -1,13 +1,20 @@
 package com.example.model;
 
+import io.swagger.v3.oas.annotations.media.Schema;
+
 import java.time.LocalDate;
 
 public class Employee {
 
+    @Schema(example = "4", description = "Identidicador clave primaria empleado numerico")   //indica el valor que deberian tener las propiedades
     private Long id;
+    @Schema(example = "Alan", description = "Nombre completo empleado")
     private String name;
+    @Schema(example = "2022-20-01", description = "Fecha de nacimiento yyyy-MM-dd")
     private LocalDate birthDate;
+    @Schema(example = "34567.43", description = "Salario anual bruto del empleado")
     private double salary;
+    @Schema(example ="true", description = "Situacion casado si o no empleado")
     private Boolean married;
 
     public Employee() {
