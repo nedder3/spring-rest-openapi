@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="047ffa36-e3b9-42bd-b7b4-98eb885bb917" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="b077f0a8-9163-412d-9eae-57a036259a5f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -26,10 +24,9 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2YSVE0cqolWHcDK3HQBIw1I2Z3b" />
+  <component name="ProjectId" id="2YSVKb3stse4R6S2Fd9oxBI28wM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,11 +42,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="047ffa36-e3b9-42bd-b7b4-98eb885bb917" name="Changes" comment="" />
-      <created>1700518853379</created>
+      <changelist id="b077f0a8-9163-412d-9eae-57a036259a5f" name="Changes" comment="" />
+      <created>1700518904971</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700518853379</updated>
+      <updated>1700518904971</updated>
     </task>
     <servers />
   </component>
